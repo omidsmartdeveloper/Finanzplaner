@@ -18,12 +18,10 @@ Voraussetzungen:
         tkinter (Standardmodul, keine separate Installation nötig)
         matplotlib (installierbar mit pip install matplotlib)
 
-Schritte:
+Klone das Repository oder lade die Dateien herunter.
+Stelle sicher, dass alle Abhängigkeiten installiert sind:
 
-    Klone das Repository oder lade die Dateien herunter.
-    Stelle sicher, dass alle Abhängigkeiten installiert sind:
-
-pip install matplotlib
+    pip install matplotlib
 
 Starte die Anwendung:
 
